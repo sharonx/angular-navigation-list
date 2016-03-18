@@ -1,4 +1,4 @@
 # angular-navigation-list
 
 ### Example in Plunker
-[Link](https://run.plnkr.co/Pm2FPYTbRzCMJZSn/)
+[Link](https://embed.plnkr.co/DJHHU8qSlGMd6Rt7edlW/)
