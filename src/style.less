@@ -1,0 +1,33 @@
+.navigation-list {
+  .nav-box {
+    border: 1px solid lightgray;
+    overflow: auto;
+    height: calc(100vh - 50px);
+  }
+
+  .content-box {
+    border: 1px solid lightgray;
+    margin-left: 20px;
+    height: calc(100vh - 10px);
+  }
+
+  a {
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  a.active {    
+    color: #fff;
+    pointer-events: none;
+  }
+  .active-highlight {
+    background-color: darkgray;
+  }
+
+  .same-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
